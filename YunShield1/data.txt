@@ -1,0 +1,3 @@
+ /etc/init.d/mjpg-streamer start  
+ 
+ /etc/init.d/mjpg-streamer stop
